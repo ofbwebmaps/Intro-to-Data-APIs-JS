@@ -1,0 +1,204 @@
+{
+  "type": "FeatureCollection",
+  "name": "onepf_web",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "meta/instanceID": "uuid:2301fe42-ff6c-4012-8882-717300689a60",
+        "obs_org/station_dept": 58,
+        "obs_org_001/stat_code": "58_1",
+        "obs_org_001/stat_choice": "ok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.55839399861008,
+          46.7720201932763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "meta/instanceID": "uuid:94c3efc5-744a-4a8a-b63c-780528d883bf",
+        "obs_org/station_dept": 58,
+        "obs_org_001/stat_code": "58_2",
+        "obs_org_001/stat_choice": "change"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.554243,
+          46.776258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "meta/instanceID": "uuid:68c49f94-19e5-4ed4-88a3-ef95e57cc615",
+        "obs_org/station_dept": 58,
+        "obs_org_001/stat_code": "58_3",
+        "obs_org_001/stat_choice": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.45414923132542,
+          46.7212247011485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "meta/instanceID": "uuid:1356da21-ad54-44a0-a1a2-0f74390e885f",
+        "obs_org/station_dept": 18,
+        "obs_org_001/stat_code": "18_3",
+        "obs_org_001/stat_choice": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30800413519813,
+          47.0977631039691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "meta/instanceID": "uuid:99689030-0fa8-4b65-8304-8b013b41e74b",
+        "obs_org/station_dept": 18,
+        "obs_org_001/stat_code": "18_2",
+        "obs_org_001/stat_choice": "change"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.356487,
+          47.09239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "meta/instanceID": "uuid:1f70a272-9623-43ed-9f79-353516e65140",
+        "obs_org/station_dept": 18,
+        "obs_org_001/stat_code": "18_1",
+        "obs_org_001/stat_choice": "ok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35391089642238,
+          47.0880048141849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "meta/instanceID": "uuid:2cdbe8df-2529-4ea1-a966-4ad3ced13b5b",
+        "obs_org/station_dept": 3,
+        "obs_org_001/stat_code": "3_1",
+        "obs_org_001/stat_choice": "ok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.61331199134313,
+          46.466428401687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "meta/instanceID": "uuid:ea34d3ba-37a2-4575-96cd-39f030a12562",
+        "obs_org/station_dept": 3,
+        "obs_org_001/stat_code": "3_2",
+        "obs_org_001/stat_choice": "change"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.613346,
+          46.464675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "meta/instanceID": "uuid:b3a18fd4-8745-4312-92d0-e4f3dcede8ba",
+        "obs_org/station_dept": 3,
+        "obs_org_001/stat_code": "3_3",
+        "obs_org_001/stat_choice": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.56017968338013,
+          46.3622306725886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "meta/instanceID": "uuid:010fe443-3bdb-4ba4-bf3d-18d42ec1ae25",
+        "obs_org/station_dept": 71,
+        "obs_org_001/stat_code": "71_1",
+        "obs_org_001/stat_choice": "ok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.00998780479116,
+          46.5734543175855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "meta/instanceID": "uuid:614db6b3-b4b8-4f55-a5ca-51be3b7d0e7a",
+        "obs_org/station_dept": 71,
+        "obs_org_001/stat_code": "71_2",
+        "obs_org_001/stat_choice": "change"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.01183448513938,
+          46.5712768481396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "meta/instanceID": "uuid:9fb17c17-7f6f-4b7d-9943-99c6eff946c6",
+        "obs_org/station_dept": 71,
+        "obs_org_001/stat_code": "71_3",
+        "obs_org_001/stat_choice": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.01023323073557,
+          46.5691133169434
+        ]
+      }
+    }
+  ]
+}
